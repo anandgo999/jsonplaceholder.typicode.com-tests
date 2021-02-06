@@ -21,6 +21,7 @@ The tests are seperated by below primary tags:
 Tests can be controlled during execution using Robot framework tags by executing the below command from RobotAutomation/TestCases/GetPostsTC folder
 
 `robot -i Smoke TS001_Posts.robot`
+
 `robot -i Extensive TS001_Posts.robot`
 
 ## Test Data
