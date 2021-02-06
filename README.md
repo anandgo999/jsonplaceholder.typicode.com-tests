@@ -53,7 +53,7 @@ The tests are structured to get test data in an externalized manner thus making 
 
 **Fixtures/JsonTemplates/**: This folder contains all the Expected JSON Schema which is generated from the json response using an online Json Schema generator tool: [jsonformatter.org](http://jsonformatter.org "jsonformatter.org"). There are three schemas available for Single Post responses, multiple Post responses and Empty Responses from /posts route.
 
-**Resources/PostHelper.robot**: This has all the low-level implementation keywords for the test cases
+**Resources/PostsHelper.robot**: This has all the low-level implementation keywords for the test cases
 
 **UserDefinedKeywords/FixtureLoader.py**: This file contains all the Python level User defined implementation functions.
 
